@@ -23,7 +23,7 @@
 
  <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=java,spring,git,docker,postman,mongodb,postgres,mysql,azure" />
+  <img src="https://skillicons.dev/icons?i=typescript,nodejs,java,spring,git,docker,postman,mongodb,postgres,mysql,azure" />
 </a>
   <br />
   </div>
@@ -32,7 +32,7 @@
 
 <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,angular,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,express,angular,react,nextjs" />
 </a>
   <br />
   </div>
