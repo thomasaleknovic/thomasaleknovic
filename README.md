@@ -4,13 +4,11 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-- 🔭 I’m currently working on some projects with Java Spring.
-
-- 🌱 I’m currently developing my back-end skills with Java/Spring and MongoDB Database.
+- 🔭 I’m currently working on some projects with Python and AI.
 
 - 📫 How to reach me: **aleknovic70@gmail.com.br**
 
-- ⚡Portfolio: https://portfolio-thomas-aleknovic.vercel.app
+- ⚡Portfolio: https://www.betechdigital.com.br/
 
 
 <h3 align="center">Connect with me:</h3>
