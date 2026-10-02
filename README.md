@@ -42,7 +42,7 @@
 <br>
 <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomasaleknovic&theme=tokyonight" alt="mystreak"/>
 <br>
-<img align="center" src="https://github-readme-stats-opal-phi.vercel.app/api/top-langs?username=thomasaleknovic&count_private=false&layout=compact&theme=tokyonight&hide=html,scss,blade,css,shell,javascript,php" />
+<img align="center" src="https://github-readme-stats-opal-phi.vercel.app/api/top-langs?username=thomasaleknovic&count_private=false&layout=compact&theme=tokyonight&hide=typescript,html,scss,blade,css,shell,javascript,php" />
 
 
   
